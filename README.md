@@ -1,2 +1,14 @@
 # cnindexmksports-resource
-HTML page archive and documentation
+
+HTML 资料页存档
+
+这里保存静态 HTML 文件，便于后续查找、访问和核对。
+
+## 文件组织
+
+- 根目录承载页面文件
+- README 记录仓库用途与状态
+
+## 状态说明
+
+页面文件会按任务写入，仓库提交记录可用于查看变化。
